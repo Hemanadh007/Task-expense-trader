@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+.h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+  }
+  
+.input {
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+.button {
+    padding: 8px 30px;
+    background: blue;
+    color: white;
+    width: min-content;
+    border-radius: 3px;
+    margin-left: 90px;
+
+  }
+  
